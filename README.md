@@ -1,6 +1,6 @@
 # AI Policy Summarizer & Generator 📝🤖
 
-![AI Policy Summarizer](your-image-link-here)
+![AI Policy Summarizer](https://github.com/AmnaBarzan/AI-Policy-Summarizer-Generator/blob/main/App_image)
 
 ## 🚀 About the Project
 Ever struggled with long, complex policies? **AI Policy Summarizer & Generator** makes it easy! This tool uses AI to summarize and generate environmental policies in seconds. 🌍✨
