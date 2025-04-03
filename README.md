@@ -30,4 +30,4 @@ Want to improve this tool? Fork the repo, make your changes, and submit a PR!
 ## 🌟 Show Some Love
 If you like this project, leave a ⭐ on GitHub!
 
-📧 Contact: your.email@example.com
+📧 Contact: amnabarzan@gmail.com
